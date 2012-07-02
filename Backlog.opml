@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>Backlog</title>
+    <expansionState>8,14,18,27,33</expansionState>
+  </head>
+  <body>
+    <outline text="POC using Away3D and Jiglib" _status="checked"/>
+    <outline text="POC using FlashPunk" _status="checked"/>
+    <outline text="Add &quot;black hole&quot; to playing field" _status="checked"/>
+    <outline text="Draw items closer" _status="checked"/>
+    <outline text="Add black hole hit detection" _status="checked"/>
+    <outline text="Items dissapear when touching black hole" _status="checked"/>
+    <outline text="Black hole stays for a given amount of seconds" _status="checked"/>
+    <outline text="Captured items counter (displayed at the end of the level)" _status="checked"/>
+    <outline text="Initial Screendesign" _status="checked">
+      <outline text="Choose font" _status="checked"/>
+      <outline text="Background image" _status="checked"/>
+      <outline text="Entity graphics" _status="checked"/>
+      <outline text="Black hole graphics" _status="checked"/>
+      <outline text="Black hole animation" _status="checked"/>
+      <outline text="Intro screen" _status="checked">
+        <outline text="Intro animation" _status="checked"/>
+      </outline>
+      <outline text="Basic level graphics" _status="checked"/>
+    </outline>
+    <outline text="Create Level 2" _status="checked"/>
+    <outline text="Inital sound effects" _status="checked">
+      <outline text="Background music" _status="checked"/>
+      <outline text="Level ambient noise" _status="checked"/>
+      <outline text="Black hole noise recording and editing" _status="checked"/>
+      <outline text="Victory / failure sound effects" _status="checked"/>
+    </outline>
+    <outline text="Add &quot;harmful&quot; entity type" _status="checked"/>
+    <outline text="Create level 3" _status="checked"/>
+    <outline text="Create basic level editor" _status="checked"/>
+    <outline text="Create level 4" _status="checked"/>
+    <outline text="Add translucent entity type" _status="checked">
+      <outline text="graphics" _status="checked"/>
+      <outline text="make translucent entity hittest with black hole" _status="checked"/>
+    </outline>
+    <outline text="Create level 5 and 6" _status="checked"/>
+    <outline text="Level selection screen" _status="checked"/>
+    <outline text="Web release (embed in HTML page)" _status="checked"/>
+    <outline text="iPad Version" _status="checked">
+      <outline text="Add Mobile buttons (quit button etc.)" _status="checked"/>
+      <outline text="App icons" _status="checked"/>
+      <outline text="Sleep and quit events" _status="checked"/>
+    </outline>
+    <outline text="Mac desktop version" _status="checked"/>
+    <outline text="Allow full screen mode"/>
+    <outline text="Add placement indicator"/>
+    <outline text="Allow tapping to cancel placement"/>
+    <outline text="Add previous placement marker"/>
+    <outline text="Add &quot;tries per level&quot;"/>
+  </body>
+</opml>
