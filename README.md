@@ -4,7 +4,7 @@ Proximity
 Credits
 -------
 Animation, graphics, and programming:
-Nicolas Zanotti (http://nicolas.zanotti.name/)
+Nicolas Zanotti (http://nicolas.zanotti.me/)
 
 
 Code Frameworks:
@@ -20,7 +20,7 @@ Music:
 
 
 Sound effects:
-*   Black Hole by Nicolas Zanotti (http://nicolas.zanotti.name/)
+*   Black Hole by Nicolas Zanotti (http://nicolas.zanotti.me/)
 *   Victory and Defeat by Josiah Tobin (http://www.josiahtobin.com/)
 *   Rumble by Keith W. Blackwell (http://www.freesound.org/people/zimbot/)
 
