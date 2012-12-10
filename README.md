@@ -37,7 +37,3 @@ Software used:
 *   Powerflasher FDT 4.5
 *   Zoë by Grant Skinner
 
-
-
-
-
